@@ -1,0 +1,207 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	list-style: none;
+	font-family: "微软雅黑";
+}
+/*banner*/
+.banner{
+	width:1000px;
+	height:254px;
+	margin: 0 auto;
+}
+/*中间的大部分*/
+.content{
+	width:1000px;
+	height:1103px;
+	margin: 0 auto;
+}
+/*大部分的左边*/
+.left{
+	width:305px;
+	height: 1103px;
+	float:left;
+	background: #e7e5e6;
+}
+/*头像*/
+.head{
+	width:305px;
+	height:240px;
+}
+.head img{
+	margin: 8px 0 0 40px;
+}
+/*个人资料*/
+.personal{
+	width:305px;
+	height:300px;
+	margin-top: 95px;
+}
+.personal ul li{
+	width:255px;
+	margin-left: 33px;
+	height: 50px;
+	border-bottom: 2px solid #d0cecf;
+	line-height: 50px;
+}
+.personal ul li p{
+	color:#000;
+	font-weight: bold;
+	float:left;
+}
+.personal ul li span{
+	float:left;
+	color:#868686;
+	margin-left: 45px;
+}
+/*联系方式*/
+.contact{
+	width:305px;
+	height: 240px;
+	margin-top:73px;
+}
+.contact ul li{
+	width:255px;
+	margin-left: 33px;
+	height: 50px;
+	border-bottom: 2px solid #d0cecf;
+	line-height: 50px;
+}
+.contact ul li p{
+	color:#000;
+	font-weight: bold;
+}
+.contact ul li img{
+	float:left;
+	margin-top: 7px;
+}
+.contact ul li span{
+	float:left;
+	margin-left: 40px;
+	color:#868686;
+}
+/*其他的*/
+.other{
+	width:305px;
+	height:100px;
+	margin-top: 30px;
+}
+.other ul li{
+	width:255px;
+	margin-left: 33px;
+	height: 50px;
+	border-bottom: 2px solid #d0cecf;
+	line-height: 50px;
+}
+.other ul li p{
+	color:#000;
+	font-weight: bold;
+}
+.other ul li img{
+	float:left;
+	margin-top: 7px;
+}
+.other ul li span{
+	float:left;
+	margin-left: 40px;
+	color:#868686;
+}
+/*右边*/
+.right{
+	width:695px;
+	height:1103px;
+	float:left;
+}
+/*自我评价*/
+.profile{
+	width:695px;
+	height:285px;
+}
+.profile_top{
+	width:636px;
+	height: 55px;
+	border-bottom: 2px solid #d0cecf;
+	margin: 0 auto;
+}
+.profile_top p{
+	font-weight: bold;
+	line-height: 55px;
+	color:#000;
+}
+.profile_bottom{
+	width:636px;
+	height:250px;
+}
+.profile_bottom p{
+	width:636px;
+	margin-left: 33px;
+	line-height: 25px;
+	color:#868686;
+}
+.profile_bottom img{
+	margin: 35px 0 0 15px;
+}
+/*工作经历*/
+.work{
+	width:695px;
+	height:288px;
+}
+.work_top{
+	width:636px;
+	height: 55px;
+	border-bottom: 2px solid #d0cecf;
+	margin: 0 auto;
+}
+.work_top p{
+	font-weight: bold;
+	line-height: 55px;
+	color:#000;
+}
+.work_bottom{
+	width:640px;
+	height:205px;
+	margin: 15px 0 0 32px;
+}
+.work_left{
+	width:171px;
+	height:187px;
+	float:left;
+}
+.work_right{
+	width:423px;
+	height: 180px;
+	float:left;
+}
+.work_right_top{
+	width:423px;
+	margin-top: 5px;
+	height:20px;
+}
+.work_right_top p{
+	color:#000;
+	float:left;
+	margin-left: 5px;
+
+}
+.work_right_top span{
+	float:right;
+	margin-right: 80px;
+}
+/*项目经历*/
+.pooject{
+	width:695px;
+	height:288px;
+}
+/*软件水平*/
+.software{
+	width:640px;
+	height:185px;
+	margin: 10px 0 0 35px;
+}
+.software img{
+	margin-top: 20px;
+}
+
+
+
